@@ -1,0 +1,40 @@
+{
+  "name": "श्री श्याम रेस्टोरेंट",
+  "short_name": "श्री श्याम",
+  "description": "परम्परा, स्वाद एवं सेवा का संगम — अहिंसा सर्किल, भीलवाड़ा",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7B0028",
+  "orientation": "portrait-primary",
+  "lang": "hi",
+  "categories": ["food", "shopping"],
+  "icons": [
+    {"src":"icon-72.png","sizes":"72x72","type":"image/png","purpose":"any"},
+    {"src":"icon-96.png","sizes":"96x96","type":"image/png","purpose":"any"},
+    {"src":"icon-144.png","sizes":"144x144","type":"image/png","purpose":"any"},
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icon-256.png","sizes":"256x256","type":"image/png","purpose":"any"},
+    {"src":"icon-384.png","sizes":"384x384","type":"image/png","purpose":"any"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ],
+  "screenshots": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "श्री श्याम रेस्टोरेंट"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "ऑर्डर करें",
+      "short_name": "Order",
+      "url": "/index.html",
+      "icons": [{"src":"icon-96.png","sizes":"96x96"}]
+    }
+  ]
+}
